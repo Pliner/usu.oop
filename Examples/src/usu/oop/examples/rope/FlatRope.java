@@ -1,9 +1,5 @@
 package usu.oop.examples.rope;
 
-import java.lang.reflect.Array;
-import java.util.Arrays;
-import java.util.Iterator;
-
 public class FlatRope extends RopeBase {
     private final char[] chars;
 
